@@ -1,1 +1,1 @@
-"# NCKH_Solar_Panel_Detection_Fault" 
+# NCKH_Solar_Panel_Detection_Fault
